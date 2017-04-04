@@ -1,0 +1,6 @@
+pco_api.settings:
+  title: 'PCO API Settings'
+  description: 'Planning Center API settings'
+  parent: system.admin_config_services
+  route_name: pco_api.settings
+  weight: 100

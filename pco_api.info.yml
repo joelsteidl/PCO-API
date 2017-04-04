@@ -1,0 +1,8 @@
+name: PCO API
+type: module
+description: API client for Planning Center. https://planningcenter.github.io/api-docs/
+core: 8.x
+package: Web services
+
+dependencies:
+- key:key
