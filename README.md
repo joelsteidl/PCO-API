@@ -16,12 +16,12 @@ This module currently uses the Personal Access Token method for authentication. 
 ### Drupal configuration
 
 1. Create a Key
-** Visit /admin/config/system/keys/add
-** Settings https://www.evernote.com/l/AMl-0tHsHyRELK0nP8Ms6O4fSbvA2NjI9vkB/image.png
-** If you go the prefferred file route for the secret, please make sure there is no white space in the file!
+   1. Visit /admin/config/system/keys/add
+   2. ![Key Module Settings](https://www.evernote.com/l/AMl-0tHsHyRELK0nP8Ms6O4fSbvA2NjI9vkB/image.png)
+   3. If you go the prefferred file route for the secret, please make sure there is no white space in the file!
 2. Configure API Settings
-** Add your API token, the API base url and reference the secret created in step #1
-** Settings https://www.evernote.com/l/AMmcWL4KRX9Il7urBNECTnLZa4pP_p1TTnQB/image.png
+   1. Add your API token, the API base url and reference the secret created in step #1
+   2. ![PCO API Module Settings](https://www.evernote.com/l/AMmcWL4KRX9Il7urBNECTnLZa4pP_p1TTnQB/image.png)
 
 ## Usage
 
